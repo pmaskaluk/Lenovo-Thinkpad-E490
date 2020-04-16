@@ -10,8 +10,9 @@ MacOS 10.15.*
 ##### Working
 - Ethernet
 - Onboard Audio (including digital audio)
-- Bluetooth 
-
+- Bluetooth (Intel 9260 - 0x8087 0x0025) 
+- Graphics
+- USB ( + USB Type-C)
 
 ##### Not Working
 - Built-in wifi. 
