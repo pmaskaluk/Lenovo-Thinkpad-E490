@@ -11,11 +11,9 @@ MacOS 10.15.*
 - Ethernet
 - Onboard Audio (including digital audio)
 - Bluetooth (Intel 9260 - 0x8087 0x0025) 
+- Built-in wifi. (+ HeliPort app, ./app/heliport.txt)
 - Graphics
 - USB ( + USB Type-C)
-
-##### Not Working
-- Built-in wifi. 
 
 
 ##### Not Yet Tested
